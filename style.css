@@ -97,7 +97,7 @@ nav a.active::after {
 .hero-content {
   max-width: 800px;
   padding: 20px;
-  animation: fadeIn Up 1s ease-out;
+  animation: fadeInUp 1s ease-out;
 }
 
 .hero-content h2 {
